@@ -15,6 +15,7 @@
  "dependencies": {},
  "devDependencies": {
   "ast-types": "^0.11.6",
+  "eslint": "^5.10.0",
   "esprima": "^4.0.0",
   "mocha": "^5.2.0",
   "recast": "^0.16.1"
