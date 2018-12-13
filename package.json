@@ -1,0 +1,22 @@
+{
+ "name": "clarify",
+ "version": "0.1.0",
+ "repository": {
+  "type": "git",
+  "url": "git://github.com/IAlwaysBeCoding/clarify.git"
+ },
+ "main": "index.js",
+ "scripts": {
+  "test": "mocha"
+ },
+ "author": "Erik Dominguez",
+ "license": "MIT",
+ "description": "Simply tools to transform minified, uglified and/or obfuscated Javascript browser code into an easier readable format.",
+ "dependencies": {},
+ "devDependencies": {
+  "ast-types": "^0.11.6",
+  "esprima": "^4.0.0",
+  "mocha": "^5.2.0",
+  "recast": "^0.16.1"
+ }
+}
